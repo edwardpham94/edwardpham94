@@ -12,7 +12,7 @@
 
 ### ABOUT ME
 
-- **Looking to work on position:** DevOps Engineer
+- **Looking to work on position:** Software Engineer
 - **Interested in:** Mobile & Web Development.
 - **Hobby:** swimming, travelling, badminton, calisthenic
 - **Email:** &nbsp; <a href="mailto:phamhonggiabaoqn0904@gmail.com" target="_blank">phamhonggiabaoqn0904@gmail.com</a>
