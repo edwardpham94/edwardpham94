@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bao Pham Hong Gia (Edward)</h1>
-<h3 align="center">A passionate Software Developer from Vietnam</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 <div align="center">
     <a href=""><img alt="Website badge" src="https://img.shields.io/badge/Website-EC8B00?logo=google-chrome&logoColor=white"></a>
