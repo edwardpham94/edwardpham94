@@ -21,7 +21,7 @@
 <table style="border-collapse: collapse;">
     <tr>
         <td align="center">
-            <img src="https://pito.vn/wp-content/uploads/2022/09/Logo-Dai-hoc-Khoa-hoc-Tu-nhien.webp" alt="HCMUS" width="120px">
+            <img src="https://oceanology.hcmus.edu.vn/wp-content/uploads/2023/12/logo-KHTN_REMAKE-1-1024x1024.png" alt="HCMUS" width="120px">
         </td>
         <td>
             <h3 style="margin: 0;">VNUHCM - University of Science</h3> 
