@@ -14,7 +14,7 @@
 
 - **Looking to work on position:** Software Engineer
 - **Interested in:** Mobile & Web Development.
-- **Email:** &nbsp;<a href="mailto:phamhonggiabaoqn0904@gmail.com" target="_blank">phamhonggiabaoqn0904@gmail.com</a>
+- **Email:** &nbsp;<a href="mailto:phgbao.94@gmail.com" target="_blank">phgbao.94@gmail.com</a>
 
 ### STUDY
 
